@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learn-github-page/static/css/main.d1b05096.chunk.css",
+    "main.js": "/learn-github-page/static/js/main.344acb82.chunk.js",
+    "main.js.map": "/learn-github-page/static/js/main.344acb82.chunk.js.map",
+    "runtime-main.js": "/learn-github-page/static/js/runtime-main.c3afba2b.js",
+    "runtime-main.js.map": "/learn-github-page/static/js/runtime-main.c3afba2b.js.map",
+    "static/js/2.a9f7297b.chunk.js": "/learn-github-page/static/js/2.a9f7297b.chunk.js",
+    "static/js/2.a9f7297b.chunk.js.map": "/learn-github-page/static/js/2.a9f7297b.chunk.js.map",
+    "index.html": "/learn-github-page/index.html",
+    "precache-manifest.7b4bfeb9c27d52a2dfaeb122ad2f68ff.js": "/learn-github-page/precache-manifest.7b4bfeb9c27d52a2dfaeb122ad2f68ff.js",
+    "service-worker.js": "/learn-github-page/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/learn-github-page/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a9f7297b.chunk.js.LICENSE": "/learn-github-page/static/js/2.a9f7297b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/learn-github-page/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3afba2b.js",
+    "static/js/2.a9f7297b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.344acb82.chunk.js"
+  ]
+}
